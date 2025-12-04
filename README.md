@@ -19,8 +19,9 @@
 </p>
 
 <p align="center">
-  This repo is maintained in collaboration with <a href="https://zapply.jobs">Zapply</a>
+  This repo is maintained in collaboration with <a href="https://zapply.jobs">
   <img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply" height="20" align="center">
+</a>
 </p>
 
 [![Browse Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://new-grad-positions.vercel.app/)
