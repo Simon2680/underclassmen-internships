@@ -59,22 +59,18 @@
 ![uci-community](images/uci-community.png)
 
 <p align="center">
-  <a href="https://discord.gg/EXR6rWnd"><img src="images/discord.png" width="235"></a>
+  <a href="https://discord.gg/EXR6rWnd"><img src="images/uci-discord.png" width="235"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" width="200"></a>
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/uci-reddit.png" width="200"></a>
 </p>
 
 <p > 
   Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
 </p>
 
- <div align="center">
-  <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
-    <img src="./discord-button.png" width="400"   alt="Join Discord - Job Finder & Career Hub by Zapply">
-  </a>
-</div>
-
 ## Internships
+
+![uci-section-internships](images/uci-section-internships.png)
 
 | Name                                                                                                                                                                      | Status/Open Date   | Year                | Note                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -105,6 +101,8 @@
 
 ## Fellowships
 
+![uci-section-fellowships](images/uci-section-fellowships.png)
+
 Fellowships can be internships, but also mentorship, training, or open source contribution programs. These are long in duraction (6-12 weeks)
 
 | Name                                                                                                                                                        | Status/Open Date   | Year                | Note                                                                                                                                             |
@@ -134,6 +132,8 @@ Fellowships can be internships, but also mentorship, training, or open source co
 
 ## Internship-matching Fellowships
 
+![uci-section-imf](images/uci-section-imf.png)
+
 A type of fellowship hosted by NPOs/VCs for matching students to internships. Usually not exclusive to underclassmen, but gives us a fair shot
 
 | Name                                                                                                           | Status/Open Date | Year        | Note                                                                                                                                                                                        |
@@ -151,7 +151,9 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 
 <br/>
 
-## Externships/Insight Series
+## Externships / Insight Series
+
+![uci-section-externships](images/uci-section-externships.png)
 
 These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinars, training, networking event, and hackathon. Note that almost every big-tech & bank has one of these program, but I'm only highlighting ones exclusive to underclassmen
 
@@ -174,7 +176,9 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 
 <br/>
 
-## Winternship
+## Winternships
+
+![uci-section-winterships](images/uci-section-winterships.png)
 
 These are 1-4 week program during December/January. Activites includes hackathon, mentorship, networking event etc.
 
@@ -189,6 +193,8 @@ These are 1-4 week program during December/January. Activites includes hackathon
 <br/>
 
 ## Special Programs & Resources
+
+![uci-section-spr](images/uci-section-spr.png)
 
 | Name                                                            | Year        | Note                                                                                                                                                                     |
 | --------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
