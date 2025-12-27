@@ -1,4 +1,4 @@
-![uci-heading](images/uci-heading.png)
+![Underclassmen Internships - Illustration of people applying to internships together.](images/uci-heading.png)
 
 <h1 align="center">
 💥💥 Underclassmen Internships 💥💥
@@ -21,14 +21,14 @@
 
 <p align="center">
   This repo is maintained in collaboration with <a href="https://zapply.jobs">
-  <img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply" height="20" align="center">
+  <img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply logo" height="20" align="center">
 </a>
 </p>
 
-[![Browse Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://internships.win/)
-[![Zapply](https://img.shields.io/badge/Zapply-Company_Site-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply.jobs/)
-[![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
-[![Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
+[![Browse New Jobs](https://img.shields.io/badge/Browse_Jobs-Live_Site-FF6B35?style=for-the-badge&logo=rocket&logoColor=white)](https://internships.win/)
+[![Visit the Zapply website](https://img.shields.io/badge/Zapply-Company_Site-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply.jobs/)
+[![Join Our Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
+[![Join Our Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
 
 ## Contents
 
@@ -36,10 +36,10 @@
 - [Useful Lists](#useful-lists)
 - [Internships](#internships)
 - [Fellowships](#fellowships)
-- [Internship-matching Fellowships](#internship-matching-fellowships)
-- [Externships/Insight Series](#externships--insight-series)
-- [Winternship](#winternships)
-- [Special Programs \& Resources](#special-programs--resources)
+- [Internship-Matching Fellowships](#internship-matching-fellowships)
+- [Externships / Insight Series](#externships--insight-series)
+- [Winternships](#winternships)
+- [Special Programs & Resources](#special-programs--resources)
 
 ## Useful Lists
 
@@ -51,12 +51,12 @@
 
 ## **Join Our Community**
 
-![uci-community](images/uci-community.png)
+![Join Our Community - Illustration of people holding hands.](images/uci-community.png)
 
 <p align="center">
-  <a href="https://discord.gg/EXR6rWnd"><img src="images/uci-discord.png" width="235"></a>
+  <a href="https://discord.gg/EXR6rWnd"><img src="images/uci-discord.png" alt="Join Our Discord" width="235"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/r/Zapply/"><img src="images/uci-reddit.png" width="200"></a>
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/uci-reddit.png" alt="Join Our Reddit" width="200"></a>
 </p>
 
 <p > 
@@ -65,7 +65,7 @@
 
 ## Internships
 
-![uci-section-internships](images/uci-section-internships.png)
+![Current internships for students and early-career candidates.](images/uci-section-internships.png)
 
 | Name                                                                                                                                                                      | Status/Open Date   | Year                | Note                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -94,7 +94,7 @@
 
 ## Fellowships
 
-![uci-section-fellowships](images/uci-section-fellowships.png)
+![Structured programs beyond traditional internships.](images/uci-section-fellowships.png)
 
 Fellowships can be internships, but also mentorship, training, or open source contribution programs. These are long in duraction (6-12 weeks)
 
@@ -123,7 +123,7 @@ Fellowships can be internships, but also mentorship, training, or open source co
 
 ## Internship-Matching Fellowships
 
-![uci-section-imf](images/uci-section-imf.png)
+![Programs that pair fellows directly with internships.](images/uci-section-imf.png)
 
 A type of fellowship hosted by NPOs/VCs for matching students to internships. Usually not exclusive to underclassmen, but gives us a fair shot
 
@@ -142,7 +142,7 @@ A type of fellowship hosted by NPOs/VCs for matching students to internships. Us
 
 ## Externships / Insight Series
 
-![uci-section-externships](images/uci-section-externships.png)
+![Early exposure opportunities across industries.](images/uci-section-externships.png)
 
 These are 1-5 day programs designed to help you get to know (and get noticed by) a company. Some are in-person, some includes stipend. Activities include webinars, training, networking event, and hackathon. Note that almost every big-tech & bank has one of these program, but I'm only highlighting ones exclusive to underclassmen
 
@@ -165,7 +165,7 @@ These are 1-5 day programs designed to help you get to know (and get noticed by)
 
 ## Winternships
 
-![uci-section-winterships](images/uci-section-winterships.png)
+![Winter break opportunities to gain experience.](images/uci-section-winterships.png)
 
 These are 1-4 week program during December/January. Activites includes hackathon, mentorship, networking event etc.
 
@@ -179,7 +179,7 @@ These are 1-4 week program during December/January. Activites includes hackathon
 
 ## Special Programs & Resources
 
-![uci-section-spr](images/uci-section-spr.png)
+![Unique programs, workshops, and student resources.](images/uci-section-spr.png)
 
 | Name                                                            | Year        | Note                                                                                                                                                                     |
 | --------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -189,10 +189,10 @@ These are 1-4 week program during December/January. Activites includes hackathon
 
 ## Contributors
 
-![uci-contributor](images/uci-contributor.png)
+![Become a Contributor](images/uci-contributor.png)
 
 Thanks to all our contributors! **The real MVPs. 🏆**
 
 <a href="https://github.com/zapplyjobs/underclassmen-internships/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=zapplyjobs/underclassmen-internships" />
+  <img src="https://contributors-img.web.app/image?repo=zapplyjobs/underclassmen-internships"/>
 </a>
